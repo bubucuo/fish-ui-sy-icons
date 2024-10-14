@@ -1,3 +1,5 @@
+<!-- 先执行yarn, yarn build:cjs, 然后再执行yarn publish -->
+
 @fluentui/react-icons
 ===
 
